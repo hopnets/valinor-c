@@ -25,3 +25,9 @@ Also checkout [Valinor super repository](https://github.com/hopnets/valinor-arti
 Erfan Sharafzadeh
 
 2020-2023
+
+ ### Open source code used in this repository:
+- Shenango (https://github.com/shenango/shenango)
+- Frozen (https://github.com/cesanta/frozen)
+- log.c (https://github.com/rxi/log.c)
+- Hiredis (https://github.com/redis/hiredis)
